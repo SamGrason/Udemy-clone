@@ -29,16 +29,12 @@ udemy-clone
 - index.html  
 - style.css  
 
-## Live Demo
 
-(Add your deployed link here)
-
-https://your-username.github.io/udemy-clone/
 
 ## Author
 
-Sam  
-GitHub: https://github.com/your-username  
+Sam Grason 
+ 
 
 ## Disclaimer
 
